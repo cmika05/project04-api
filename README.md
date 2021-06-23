@@ -1,3 +1,13 @@
+## Tasks
+
+---
+
+> Add an apiRouter to your app
+
+> Add Sequelize to your application (https://sequelize.org/master/manual/getting-started.html) . This task also involves connecting to the mysql server.
+
+
+
 ## Database Tables Needed
 
 ---
