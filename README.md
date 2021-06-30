@@ -2,9 +2,10 @@
 
 ---
 
-> Add the route to support creating the item/row in the portfolio table. (Refer to the api router)
+> Add the route to support deleting the item/row in the portfolio table. (Refer to the api router)
+ 
+> ~~Add the route to support creating the item/row in the portfolio table. (Refer to the api router)~~
 
-> Add the route to support deleting the item/row in the portfolio table. (Refer to the api router) 
 
 > ~~Add an apiRouter to your app~~
 
